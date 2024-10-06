@@ -1,15 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c9800e-51dc-4548-a76f-3be61ee558d3" name="Changes" comment="" />
+    <list default="true" id="98c9800e-51dc-4548-a76f-3be61ee558d3" name="Changes" comment="&quot;Ejercicios de Kitlin&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/031-ej-Sumar_elementos_de_un_array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/032-ej-Encontrar_el_numero_mas_grande_en_un_array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/033-ej-Revertir_una_cadena.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/034-ej-Contar_vocales_en_una_cadena.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/035-ej-Concatenar_dos_cadenas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/036-Eliminar_espacios_en_blanco.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/037-ej-Palindromo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/038-ej-Numeros_repetidos_en_un_array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/039-ej-Mayusculas_a_minusculas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Cadenas/040-ej-Promedio_de_elemento_de_un_array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/021-ej-Imprimir_numeros_del_1_al_100.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/022-ej-Suma_de_los_primeros_n_numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/023-ej-Tabla_de_multiplicar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/024-ej-Numeros_pares_hasta_n.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/025-ej-Factorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/026-Sumar_digitos_de_un_numero.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/027-ej-Conteo_de_digitos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/028-ej-Numeros_primos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/029-ej-Multiplos_de_5_entre_1_y_n.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/030-ej-Invertir_numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/011-ej-Mayor_de_dos_numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/012-ej-Positivo_Negativo_cero.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/013-ej-Calculadora_basica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/014-ej-Edad_para_votar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/015-ej-Año_bisiesto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/016-ej-Calificacion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/017-ej-Descuento_en_tienda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/018-ej-Multiplicacion_sin_multiplicar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/019-ej-Ordenar_tres_numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condiciones/020-ej-Condicional_anidado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/001-ej-suma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/002-ej-conversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/003-ej-area.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/004-ej-intercambiar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/005-ej-promedio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/006-ej-coversion_String_Int.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/007-ej-doble_mitad.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/008-ej-conversion_metros_a_kilometros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/009-ej-numeros_par_o_impar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Tipos/010-ej-dias_de_la_semana.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JoannaQuijano12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JoannaQuijano12/Kotlin_Ejercicios_QuijanoVanessa.git&quot;,
+    &quot;accountId&quot;: &quot;39b73367-3862-4c3c-a702-ef398ae825b6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mcy8XT8gSGbmThGol14DcEWhMq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,11 +86,99 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin._001_ej_sumaKt.executor": "Run",
+    "Kotlin._002_ej_conversionKt.executor": "Run",
+    "Kotlin._003_ej_areaKt.executor": "Run",
+    "Kotlin._004_ej_intercambiarKt.executor": "Run",
+    "Kotlin._005_ej_promedioKt.executor": "Run",
+    "Kotlin._006_ej_coversion_String_IntKt.executor": "Run",
+    "Kotlin._007_ej_doble_mitadKt.executor": "Run",
+    "Kotlin._008_ej_conversion_metros_a_kilometrosKt.executor": "Run",
+    "Kotlin._009_ej_numeros_par_o_imparKt.executor": "Run",
+    "Kotlin._010_ej_dias_de_la_semanaKt.executor": "Run",
+    "Kotlin._011_ej_Mayor_de_dos_numerosKt.executor": "Run",
+    "Kotlin._012_ej_Positivo_Negativo_ceroKt.executor": "Run",
+    "Kotlin._013_ej_Calculadora_basicaKt.executor": "Run",
+    "Kotlin._014_ej_Edad_para_votarKt.executor": "Run",
+    "Kotlin._015_ej_Año_bisiestoKt.executor": "Run",
+    "Kotlin._016_ej_CalificacionKt.executor": "Run",
+    "Kotlin._017_ej_Descuento_en_tiendaKt.executor": "Run",
+    "Kotlin._018_ej_Multiplicacion_sin_multiplicarKt.executor": "Run",
+    "Kotlin._019_ej_Ordenar_tres_numerosKt.executor": "Run",
+    "Kotlin._020_ej_Condicional_anidadoKt.executor": "Run",
+    "Kotlin._021_ej_Imprimir_numeros_del_1_al_100Kt.executor": "Run",
+    "Kotlin._022_ej_Suma_de_los_primeros_n_numerosKt.executor": "Run",
+    "Kotlin._023_ej_Tabla_de_multiplicarKt.executor": "Run",
+    "Kotlin._024_ej_Numeros_pares_hasta_nKt.executor": "Run",
+    "Kotlin._025_ej_FactorialKt.executor": "Run",
+    "Kotlin._026_Sumar_digitos_de_un_numeroKt.executor": "Run",
+    "Kotlin._027_ej_Conteo_de_digitosKt.executor": "Run",
+    "Kotlin._028_ej_Numeros_primosKt.executor": "Run",
+    "Kotlin._029_ej_Multiplos_de_5_entre_1_y_nKt.executor": "Run",
+    "Kotlin._030_ej_Invertir_numerosKt.executor": "Run",
+    "Kotlin._031_ej_Sumar_elementos_de_un_arrayKt.executor": "Run",
+    "Kotlin._032_ej_Encontrar_el_numero_mas_grande_en_un_arrayKt.executor": "Run",
+    "Kotlin._033_ej_Revertir_una_cadenaKt.executor": "Run",
+    "Kotlin._034_ej_Contar_vocales_en_una_cadenaKt.executor": "Run",
+    "Kotlin._035_ej_Concatenar_dos_cadenasKt.executor": "Run",
+    "Kotlin._036_Eliminar_espacios_en_blancoKt.executor": "Run",
+    "Kotlin._037_ej_PalindromoKt.executor": "Run",
+    "Kotlin._038_ej_Numeros_repetidos_en_un_arrayKt.executor": "Run",
+    "Kotlin._039_ej_Mayusculas_a_minusculasKt.executor": "Run",
+    "Kotlin._040_ej_Promedio_de_elemento_de_un_arrayKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario/IdeaProjects/clase2",
     "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Kotlin_Ejercicios_QuijanoVanessa/src/Main.kt"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin._040_ej_Promedio_de_elemento_de_un_arrayKt">
+    <configuration name="_036_Eliminar_espacios_en_blancoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_036_Eliminar_espacios_en_blancoKt" />
+      <module name="Kotlin_Ejercicios_QuijanoVanessa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_037_ej_PalindromoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_037_ej_PalindromoKt" />
+      <module name="Kotlin_Ejercicios_QuijanoVanessa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_038_ej_Numeros_repetidos_en_un_arrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_038_ej_Numeros_repetidos_en_un_arrayKt" />
+      <module name="Kotlin_Ejercicios_QuijanoVanessa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_039_ej_Mayusculas_a_minusculasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_039_ej_Mayusculas_a_minusculasKt" />
+      <module name="Kotlin_Ejercicios_QuijanoVanessa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_040_ej_Promedio_de_elemento_de_un_arrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_040_ej_Promedio_de_elemento_de_un_arrayKt" />
+      <module name="Kotlin_Ejercicios_QuijanoVanessa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._040_ej_Promedio_de_elemento_de_un_arrayKt" />
+        <item itemvalue="Kotlin._039_ej_Mayusculas_a_minusculasKt" />
+        <item itemvalue="Kotlin._038_ej_Numeros_repetidos_en_un_arrayKt" />
+        <item itemvalue="Kotlin._037_ej_PalindromoKt" />
+        <item itemvalue="Kotlin._036_Eliminar_espacios_en_blancoKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +188,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727390001061</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Ejercicios de Kitlin&quot;">
+      <option name="closed" value="true" />
+      <created>1727390052910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727390052910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Ejercicios de Kitlin&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Ejercicios de Kitlin&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
